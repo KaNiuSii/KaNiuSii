@@ -1,5 +1,5 @@
 <h1 align="center">💜 Hi, I'm Kacper </h1>
-<img src="https://cdn.dribbble.com/users/912205/screenshots/2505391/hello4.gif" alt="baner" width="100%" height="250"/>
+<img src="https://cdn.dribbble.com/users/400493/screenshots/2703191/hello.gif" alt="baner" width="100%" height="250"/>
 <h2 align="center">👾 Professionally write bugs and struggle with the code on every level of abstraction. </h2>
 
 <h3 align="center">🔮 Languages and Tools :</h3>
