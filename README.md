@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
-<img src="https://cdn.dribbble.com/users/912205/screenshots/2505391/hello4.gif" alt="baner"/>
+<img src="https://cdn.dribbble.com/users/912205/screenshots/2505391/hello4.gif" alt="baner" width="100%"/>
 <h3 align="center">Professionally write bugs and struggle with the code on every level of abstraction</h3>
 
 <h3 align="left">Connect with me:</h3>
