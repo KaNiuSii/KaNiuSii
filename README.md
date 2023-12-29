@@ -19,7 +19,7 @@
 
 <h3 align="center">♾️ Studying Computer Science at :</h3>
 <p align="center">
-<a href="https://weeia.p.lodz.pl/en" target="blank"><img align="center" src="https://weeia.edu.p.lodz.pl/pluginfile.php/1/theme_modernwikamp/logo1/1702466532/logo_pl.png" alt="kacper woźnica" height="40" width="40" /></a>
+<a href="https://weeia.p.lodz.pl/en" target="blank"><img align="center" src="https://weeia.edu.p.lodz.pl/pluginfile.php/1/theme_modernwikamp/logo1/1702466532/logo_pl.png" alt="kacper woźnica" height="60" width="40" /></a>
 </p>
 
 ---
